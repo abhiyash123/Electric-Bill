@@ -8,10 +8,10 @@
 <version>2.7.3</version>
 <relativePath/> <!-- lookup parent from repository -->
 </parent>
-<groupId>com.electricity</groupId>
-<artifactId>payment</artifactId>
+<groupId>com.electricity.bill</groupId>
+<artifactId>demo</artifactId>
 <version>0.0.1-SNAPSHOT</version>
-<name>payment</name>
+<name>demo</name>
 <description>Demo project for Spring Boot</description>
 <properties>
 
